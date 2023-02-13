@@ -6,8 +6,9 @@ Hello there,
 This landing page is going under a major renovation.
 
 Am I active anywhere? Yes, here -> <a href="https://linkedin.com/in/yogeshdevnani/">
-  <img height="50" src="https://user-images.githubusercontent.com/54678035/218377767-9daabfee-1a1e-4c83-9af6-6273acb1fb78.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/54678035/218378109-021c4e4c-cea6-49bd-9c2b-8bbb7b94f7cd.png"/>
 </a>
 
 
 <img src = "https://i.imgur.com/an3ZhUn.jpeg"/>
+![317725_linkedin_social_icon](https://user-images.githubusercontent.com/54678035/218378109-021c4e4c-cea6-49bd-9c2b-8bbb7b94f7cd.png)
