@@ -14,14 +14,16 @@ Currently working on: Bio
   </a>
 </h3>
 
-<img src = "https://user-images.githubusercontent.com/54678035/219397528-cf402a13-be17-4354-a10d-d26f2a56c019.png"/>
+<img src = "https://user-images.githubusercontent.com/54678035/219400610-053c899f-b971-4558-9ff0-03fbfb278dbe.png"/>
+
+
 
 <h2> Some technologies I have worked on.</h2>
 
 <p>
     <img src="https://user-images.githubusercontent.com/54678035/219256935-cba4ceb4-f892-46f7-944b-52ee2259b571.svg" alt="python" width="45" height="45" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-    <img src="https://user-images.githubusercontent.com/54678035/219257316-fb290f5d-23a3-462a-8066-51a8de258682.svg" alt="python" width="45" height="45" />
+    <img src="https://user-images.githubusercontent.com/54678035/219400491-851adcdc-54fc-4971-905b-bd58fb467eae.png" alt="python" width="45" height="45" />
     <img src="https://user-images.githubusercontent.com/54678035/219395636-a94a18b2-3dcf-41ea-8516-5f44b1a524eb.svg" alt="python" width="45" height="45" />
     <img src="https://user-images.githubusercontent.com/54678035/219257518-7ccbf6af-403d-434b-be7a-5baa8e61d16d.svg" alt="python" width="45" height="45" />
     <img src="https://user-images.githubusercontent.com/54678035/219257513-eb8928d7-13ee-4067-a21e-8897619f29cd.svg" alt="python" width="45" height="45" />
@@ -45,7 +47,6 @@ Currently working on: Bio
   <img src="https://user-images.githubusercontent.com/54678035/219261965-d5e799ba-b625-45c1-8ae1-c1ecd5be374c.png" alt="python" width="90" height="45" />
   <img src="https://user-images.githubusercontent.com/54678035/219257902-b421a47c-0914-4ecf-8729-431b97b13ef5.svg" alt="python" width="45" height="45" />
 
-</p>
 
 <p>
   <table>
@@ -64,3 +65,6 @@ Currently working on: Bio
   </p>
 
 <img src ="https://user-images.githubusercontent.com/54678035/218378721-8a864090-767a-4c96-9105-0db0a85883ef.svg"/>
+
+
+
