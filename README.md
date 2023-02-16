@@ -14,7 +14,7 @@ Currently working on: Bio
   </a>
 </h3>
 
-<!-- <img src = "https://user-images.githubusercontent.com/54678035/219397528-cf402a13-be17-4354-a10d-d26f2a56c019.png"/> -->
+<img src = "https://user-images.githubusercontent.com/54678035/219397528-cf402a13-be17-4354-a10d-d26f2a56c019.png"/
 
 <h2> Some technologies I have worked on.</h2>
 
