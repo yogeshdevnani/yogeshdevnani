@@ -15,8 +15,6 @@ I love to read, as I believe it's essential to constantly broaden one's knowledg
   </a>
 </h3>
 
-<img src = "https://user-images.githubusercontent.com/54678035/219400610-053c899f-b971-4558-9ff0-03fbfb278dbe.png"/>
-
 
 
 <h2> Some technologies I have worked on.</h2>
