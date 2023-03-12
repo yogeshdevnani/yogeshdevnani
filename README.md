@@ -3,10 +3,11 @@
 </p> -->
 
 Hello there 👋,
-This landing page is going under a major renovation.
-It will be opening in a progressive manner.
 
-Currently working on: Bio
+Constantly exploring and learning about new technologies and frameworks. In this rapidly evolving tech landscape, I believe it's important to stay current and adaptable. I am passionate about understanding the underlying structure of these technologies and finding innovative ways to apply them to real-world problems.
+
+I love to read, as I believe it's essential to constantly broaden one's knowledge and perspectives.
+
 
 <h3>
   Am I active anywhere? Yes, here -> <a href="https://linkedin.com/in/yogeshdevnani/">
