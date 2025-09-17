@@ -46,20 +46,32 @@ Software Engineer passionate about building scalable distributed systems that so
   </tr>
 </table>
 
+#### Entire Tech Stack
+
+- **Languages**: Java, Python, JavaScript, TypeScript, SQL
+- **Backend Frameworks**: Spring Boot, Node.js, Express
+- **Frontend**: React, Angular
+- **APIs**: REST, JWT authentication
+- **Messaging/Streaming**: IBM MQ, AWS SQS/SNS, Kafka
+- **Databases**: MySQL, PostgreSQL, MongoDB, DynamoDB
+- **Build/Packaging**: Maven, npm, Docker, Kubernetes
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
+- **Testing**: JUnit, Mockito, TestNG, SonarQube
+- **Monitoring**: CloudWatch, Grafana, Wily APM
+- **Developer Tools**: IntelliJ IDEA, VS Code, Git, Postman, JIRA
+
 ### Featured Projects
 
-| Project                            | Description                                                                        | Tech Stack                                |
-| ---------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------- |
-| **[MERNBuy](link)**                | Full-stack e-commerce platform with real-time inventory, <200ms API response times | MongoDB, Express, React, Node.js, Redis   |
-| **[Food Ordering Platform](link)** | Event-driven microservices architecture with real-time order tracking              | AWS Lambda, SQS/SNS, DynamoDB, CloudWatch |
-| **[Movie Vibe](link)**             | Weekend project - AI-powered movie recommendations (built over weekend!)           | React, Python, Azure                      |
+| Project                                                                                   | Description                                                              | Tech Stack                                |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------- |
+| **[MERNBuy](https://github.com/yogeshdevnani/MERNBuy)**                                   | Full-stack e-commerce platform with real-time inventory                  | MongoDB, Express, React, Node.js, Redis   |
+| **[Food Ordering Platform](https://github.com/yogeshdevnani/food-ordering-platform)**     | Event-driven microservices architecture with real-time order tracking    | AWS Lambda, SQS/SNS, DynamoDB, CloudWatch |
+| **[Movie Recommendation App](https://github.com/yogeshdevnani/movie-recommendation-app)** | Weekend project - AI-powered movie recommendations (built over weekend!) | React, Python, Azure                      |
 
 ### Connect With Me
 
 <a href="https://linkedin.com/in/yogeshdevnani/">
-    <img height="20" src="[linkedin-icon]"/>
+    <img height="20" src="assets/logos/linkedin.svg"/>
 </a>
 
 ---
-
-_"I love to read, as I believe it's essential to constantly broaden one's knowledge and perspectives."_
