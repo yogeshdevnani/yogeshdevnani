@@ -12,36 +12,36 @@ Software Engineer passionate about building scalable distributed systems that so
 
 #### Core Technologies
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td><img src="assets/logos/java.svg" alt="Java" width="45" height="45" /></td>
-    <td><img src="assets/logos/python.svg" alt="Python" width="45" height="45" /></td>
-    <td><img src="assets/logos/spring_boot.svg" alt="Spring Boot" width="45" height="45" /></td>
-    <td><img src="assets/logos/react.svg" alt="React" width="45" height="45" /></td>
-    <td><img src="assets/logos/SQL.svg" alt="SQL" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/java.svg" alt="Java" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/python.svg" alt="Python" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/spring_boot.svg" alt="Spring Boot" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/react.svg" alt="React" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/SQL.svg" alt="SQL" width="45" height="45" /></td>
   </tr>
   <tr>
-    <td>Java</td>
-    <td>Python</td>
-    <td>Spring Boot</td>
-    <td>React</td>
-    <td>SQL</td>
+    <td align="center">Java</td>
+    <td align="center">Python</td>
+    <td align="center">Spring Boot</td>
+    <td align="center">React</td>
+    <td align="center">SQL</td>
   </tr>
 </table>
 
 #### Cloud & Infrastructure
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td><img src="assets/logos/amazon_web_services.svg" alt="AWS" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/amazon_web_services.svg" alt="AWS" width="45" height="45" /></td>
     <td>Lambda, EC2, S3, IAM, CloudWatch, SQS/SNS</td>
   </tr>
   <tr>
-    <td><img src="assets/logos/microsoft_azure.svg" alt="Azure" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/microsoft_azure.svg" alt="Azure" width="45" height="45" /></td>
     <td>App Services, Functions, DevOps</td>
   </tr>
   <tr>
-    <td><img src="assets/logos/google_cloud_platform.svg" alt="GCP" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/google_cloud_platform.svg" alt="GCP" width="45" height="45" /></td>
     <td>Cloud Functions, Pub/Sub</td>
   </tr>
 </table>
