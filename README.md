@@ -31,9 +31,20 @@ Software Engineer passionate about building scalable distributed systems that so
 
 #### Cloud & Infrastructure
 
-<p>
-    [Keep your existing AWS, Azure, GCP icons]
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="assets/logos/amazon_web_services.svg" alt="AWS" width="45" height="45" /></td>
+    <td>Lambda, EC2, S3, IAM, CloudWatch, SQS/SNS</td>
+  </tr>
+  <tr>
+    <td><img src="assets/logos/microsoft_azure.svg" alt="Azure" width="45" height="45" /></td>
+    <td>App Services, Functions, DevOps</td>
+  </tr>
+  <tr>
+    <td><img src="assets/logos/google_cloud_platform.svg" alt="GCP" width="45" height="45" /></td>
+    <td>Cloud Functions, Pub/Sub</td>
+  </tr>
+</table>
 
 ### Featured Projects
 
