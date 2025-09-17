@@ -9,9 +9,9 @@ Software Engineer with 2+ years of experience and a Master’s in Applied Comput
 
 ### More About Me
 
-📚 **Constant Learning:** Strong fundamentals help me pick up new technologies quickly, leveraging modern tools to accelerate learning.  
-🚀 **Performance at Scale:** I love optimizing systems. From reducing latency in high-traffic services to handling large datasets, I enjoy making things faster and more reliable.  
-🤝 **Collaboration:** A team player who helps the team grow — whether it’s through mentoring, design discussions, or post-incident reviews.
+**Constant Learning:** Strong fundamentals help me pick up new technologies quickly, leveraging modern tools to accelerate learning.  
+**Performance at Scale:** I love optimizing systems. From reducing latency in high-traffic services to handling large datasets, I enjoy making things faster and more reliable.  
+**Collaboration:** A team player who helps the team grow — whether it’s through mentoring, design discussions, or post-incident reviews.
 
 ### Tech Stack & Tools
 
