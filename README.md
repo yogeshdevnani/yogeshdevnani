@@ -1,12 +1,17 @@
 ## Hi, I'm Yogesh 👋
 
-Software Engineer passionate about building scalable distributed systems that solve real-world problems. Currently optimizing mission-critical services at Canada Revenue Agency, where I've improved performance for 2M+ users.
+Software Engineer with 2+ years of experience and a Master’s in Applied Computer Science from Dalhousie University.
 
-### What Drives Me
+- **Large-scale systems:** 2+ years at the Canada Revenue Agency, where I built and optimized distributed systems serving 2M+ Canadians.
+- **Production problem-solver:** Solved issues like improving edge-case latency from 25s to 5s, resolving OutOfMemory errors, and tuning JVM/SQL bottlenecks for reliability under heavy load.
+- **Scalable design:** Experienced in designing and supporting services that stay resilient under real-world pressure and large user bases.
+- **Team contributor:** Mentored engineers, led incident reviews, and improved processes that made teams faster and more effective.
 
-📚 **Constant Learning:** In this rapidly evolving tech landscape, I believe in staying current and adaptable  
-🚀 **Performance at Scale:** Reduced system latency by 80% and achieved 99.9% uptime in production  
-🤝 **Collaboration:** Mentoring engineers and working cross-functionally to deliver impactful solutions
+### More About Me
+
+📚 **Constant Learning:** Strong fundamentals help me pick up new technologies quickly, leveraging modern tools to accelerate learning.  
+🚀 **Performance at Scale:** I love optimizing systems. From reducing latency in high-traffic services to handling large datasets, I enjoy making things faster and more reliable.  
+🤝 **Collaboration:** A team player who helps the team grow — whether it’s through mentoring, design discussions, or post-incident reviews.
 
 ### Tech Stack & Tools
 
@@ -19,6 +24,7 @@ Software Engineer passionate about building scalable distributed systems that so
     <td align="center"><img src="assets/logos/spring_boot.svg" alt="Spring Boot" width="45" height="45" /></td>
     <td align="center"><img src="assets/logos/react.svg" alt="React" width="45" height="45" /></td>
     <td align="center"><img src="assets/logos/SQL.svg" alt="SQL" width="45" height="45" /></td>
+    <td align="center"><img src="assets/logos/docker.svg" alt="Docker" width="45" height="45" /></td>
   </tr>
   <tr>
     <td align="center">Java</td>
@@ -26,6 +32,7 @@ Software Engineer passionate about building scalable distributed systems that so
     <td align="center">Spring Boot</td>
     <td align="center">React</td>
     <td align="center">SQL</td>
+    <td align="center">Docker</td>
   </tr>
 </table>
 
@@ -62,16 +69,18 @@ Software Engineer passionate about building scalable distributed systems that so
 
 ### Featured Projects
 
-| Project                                                                                   | Description                                                              | Tech Stack                                |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------- |
-| **[MERNBuy](https://github.com/yogeshdevnani/MERNBuy)**                                   | Full-stack e-commerce platform with real-time inventory                  | MongoDB, Express, React, Node.js, Redis   |
-| **[Food Ordering Platform](https://github.com/yogeshdevnani/food-ordering-platform)**     | Event-driven microservices architecture with real-time order tracking    | AWS Lambda, SQS/SNS, DynamoDB, CloudWatch |
-| **[Movie Recommendation App](https://github.com/yogeshdevnani/movie-recommendation-app)** | Weekend project - AI-powered movie recommendations (built over weekend!) | React, Python, Azure                      |
+| Project                                                                                   | Description                                                               | Tech Stack                                | Live Demo                                                   |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------- |
+| **[E-Commerce App](https://github.com/yogeshdevnani/MERNBuy)**                            | Full-stack e-commerce platform with real-time inventory                   | MongoDB, Express, React, Node.js, Redis   | [Live](https://mernbuy.azurewebsites.net/)                  |
+| **[Food Ordering Platform](https://github.com/yogeshdevnani/food-ordering-platform)**     | Event-driven microservices with real-time order tracking                  | AWS Lambda, SQS/SNS, DynamoDB, CloudWatch | —                                                           |
+| **[Movie Recommendation App](https://github.com/yogeshdevnani/movie-recommendation-app)** | A weekend project to turn an idea into a working prototype, live on Azure | React, Python, Azure                      | [Live](https://movie-recommendation-app.azurewebsites.net/) |
 
 ### Connect With Me
 
-<a href="https://linkedin.com/in/yogeshdevnani/">
-    <img height="20" src="assets/logos/linkedin.svg"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/yogeshdevnani/" target="_blank" rel="noopener noreferrer">
+    <img height="40" src="assets/logos/linkedin.svg" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
