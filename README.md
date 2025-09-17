@@ -69,11 +69,11 @@ Software Engineer with 2+ years of experience and a Master’s in Applied Comput
 
 ### Featured Projects
 
-| Project                                                                                   | Description                                                               | Tech Stack                                | Live Demo                                                   |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------- |
-| **[E-Commerce App](https://github.com/yogeshdevnani/MERNBuy)**                            | Full-stack e-commerce platform with real-time inventory                   | MongoDB, Express, React, Node.js, Redis   | [Live](https://mernbuy.azurewebsites.net/)                  |
-| **[Food Ordering Platform](https://github.com/yogeshdevnani/food-ordering-platform)**     | Event-driven microservices with real-time order tracking                  | AWS Lambda, SQS/SNS, DynamoDB, CloudWatch | —                                                           |
-| **[Movie Recommendation App](https://github.com/yogeshdevnani/movie-recommendation-app)** | A weekend project to turn an idea into a working prototype, live on Azure | React, Python, Azure                      | [Live](https://movie-recommendation-app.azurewebsites.net/) |
+| Project                                                                                   | Description                                                               | Tech Stack                              | Live Demo                                                                                                        |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **[E-Commerce App](https://github.com/yogeshdevnani/MERNBuy)**                            | Full-stack e-commerce platform with real-time inventory                   | MongoDB, Express, React, Node.js, Redis | <a href="https://mernbuy.azurewebsites.net/" target="_blank" rel="noopener noreferrer">Live</a>                  |
+| **[Food Ordering Platform](https://github.com/yogeshdevnani/food-ordering-platform)**     | Event-driven microservices with real-time order tracking                  | Python, React, DynamoDB, Multi-Cloud    | —                                                                                                                |
+| **[Movie Recommendation App](https://github.com/yogeshdevnani/movie-recommendation-app)** | A weekend project to turn an idea into a working prototype, live on Azure | React, Python, Azure, GitHub Actions    | <a href="https://movie-recommendation-app.azurewebsites.net/" target="_blank" rel="noopener noreferrer">Live</a> |
 
 ### Connect With Me
 
